@@ -3,4 +3,6 @@ for i in range(0,21):
 
 for each in [1,2,3]:
     print("Each")
-print("hello git")
+#another loop
+for each in [1,2,3]:
+    print(each)
